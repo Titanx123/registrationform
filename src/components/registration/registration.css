@@ -12,6 +12,9 @@ body{
     top: 31%;
     left: 37.8477%;
     background: aquamarine;
+    -webkit-box-shadow: -8px -5px 15px -3px rgba(0,0,0,0.45);
+-moz-box-shadow: -8px -5px 15px -3px rgba(0,0,0,0.45);
+box-shadow: -8px -5px 15px -3px rgba(0,0,0,0.45);
 }
 
 .registration-name-input-label {
